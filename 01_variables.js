@@ -137,6 +137,26 @@ const	    Global, Local, Block	       no & no	            yes, without default v
 
 
 
+/* Datatypes in JS 
+
+there are 7 primitive data types in js 
+
+Number
+String
+Boolean
+Null
+Undefined
+Symbol
+BigInt
+
+
+there is another type which is object and which is reference type.
+
+
+*/
+
+
+
 
 
 
