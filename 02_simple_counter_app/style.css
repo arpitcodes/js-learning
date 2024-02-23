@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Kode+Mono:wght@900&family=Noto+Sans:wght@400;900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(248, 191, 191);
+    
+}
+
+.main{
+    color: black;
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: 900;
+    padding: 3%;
+}
+
+
+.center{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.border{
+    border: 2px solid black;
+    border-radius: 15px;
+}
+
+.btn{
+    background-color: rgba(92, 143, 76, 0.871);
+    color: white;
+    font-weight: 800;
+    font-size: 200%;
+    text-align: center;
+    padding: 15px 25px;
+    outline: none;
+    width: 95px;
+    height: 45px;
+    margin: 20px;
+
+}
+
+#decrease{
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.num_values{
+    font-size: 40px;
+}
+
+#increase{
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
